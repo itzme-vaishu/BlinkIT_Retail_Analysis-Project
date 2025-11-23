@@ -9,53 +9,10 @@ This project analyzes retail data from BlinkIT – India’s Last Minute App, fo
 📊 Key Metrics & Insights
 
 🔢 Summary Stats
-
-   Metric                   Value
-____________________________________ 
-Total Sales               $10.56M
-Number of Item             4650
-Average Sale             $2,272.04
-Average Rating             3.23
-
-
 🧃 Fat Content Analysis
-
- Fat Type    Sales($M)     Number of item
-___________________________________________
-  Low Fat       6.03          2,650
-  Regular       4.53          2,000
-  
-
 🍽️ Item Type Sales
-
-   Item Type              Sales($M)
-_____________________________________
- Fruits & Vegetable          1.53
- Snack Foods                 1.35
- Frozen Foods                1.28
- Dairy                       1.25
- Canned                      1.17
- Breds Goods                 0.91
- Health & Hygiene            0.84
- Meat                        0.71
- Soft Drinks                 0.49
-
- 
- 🏬 Outlet Type Sales
-     Outlet Type         Sales($)
-  __________________________________
-  Supermarket Type1      1,815,154
-  Supermarket Type2      1,654,865
-  Supermarket Type3      1,580,456
-  Grocery Store          1,505,505
-
+🏬 Outlet Type Sales
 🏗️ Fat Content by Tier
-
-  Tier       Sales($M)
-___________________________
- Tier1        4.302
- Tier2        3.994
- Tier3        2.264
 
  📐 Outlet Size Distribution
 - Small: 20.28%

@@ -1,4 +1,4 @@
-# 📘 BlinkIT Retail Analysis – EDA & Dashboard Project
+# 📘 BlinkIT Retail Analysis – EDA + Power BI
 
 
 ## 🧾 Project Overview

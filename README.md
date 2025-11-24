@@ -1,7 +1,7 @@
 # 📘 BlinkIT Retail Analysis – EDA & Dashboard Project
 
 
-🧾 Project Overview
+## 🧾 Project Overview
 This project analyzes retail data from BlinkIT – India’s Last Minute App, focusing on sales performance, item categories, outlet characteristics, and fat content distribution. It includes:
 - Exploratory Data Analysis (EDA) using Python
 - Interactive dashboard built in Power BI
